@@ -1,6 +1,14 @@
 # PlanetBaseSaveEdit_1.0.1
+---
+
 **(EN)This application** is a powerful tool that allows you to modify your save files (.sav) for the game Planetbase. With it, you can manage resources, change the parameters of colonists and bots, instantly upgrade buildings, control game events, and much more. The editor is designed to give you complete control over your colony and allow you to customize your gaming experience to your liking.
+
+---
+
 **(RU) Это приложение** является мощным инструментом, который позволяет вам изменять ваши файлы сохранения (.sav) для игры Planetbase. С его помощью вы можете управлять ресурсами, изменять параметры колонистов и ботов, мгновенно улучшать здания, контролировать игровые события и многое другое. Редактор предназначен для того, чтобы дать вам полный контроль над вашей колонией и позволить настроить игровой процесс по своему вкусу.
+
+---
+
 **(EN) Functions:**
 Instant Recovery: Fully restore health, satiety, morale and other indicators for all colonists and visitors.
 Treatment: Instantly cure the entire colony of diseases and injuries.
@@ -20,6 +28,9 @@ Disaster Deferral: Postpone sandstorms, snowstorms, solar flares, and pirate att
 Instant completion: Stop the cataclysms that are already underway.
 Protection from threats from the sky: "Divert" meteor showers and thunderstorms from your base, making them safe during the game day.
 Automatic backups: Each time you save, the program creates several backups of your file (.bak, .bak2, .bak3), as well as a primary untouched backup (.original_bak) for maximum security.
+
+---
+
 **(RU) Функции:**
 Мгновенное восстановление: Полностью восстанавливайте здоровье, сытость, мораль и другие показатели для всех колонистов и посетителей.
 Лечение: Мгновенно излечивайте всю колонию от болезней и травм.
@@ -40,8 +51,6 @@ Automatic backups: Each time you save, the program creates several backups of yo
 Защита от угроз с неба: "Отводите" от своей базы метеоритные дожди и грозы, делая их безопасными в течении игровых суток.
 Автоматические бэкапы: При каждом сохранении программа создает несколько резервных копий вашего файла (.bak, .bak2, .bak3), а также первичный нетронутый бэкап (.original_bak) для максимальной безопасности.
 
-Конечно, вот перевод. Я постарался сохранить официальный и ясный тон, подходящий для инструкций.
-
 ---
 
 **(EN) Instructions for Use:**
@@ -51,23 +60,23 @@ Automatic backups: Each time you save, the program creates several backups of yo
 3.  Run the editor, open the desired save file, edit it, and save the changes.
 4.  On the first launch, Windows may prompt you to download additional libraries for C#. The download size is approximately 60 MB.
 5.  Load the modified save file in the game. Enjoy!
-
+---
 **Important Notes:**
-
+---
 1.  The archive includes a User Manual. Most questions are explained there.
 2.  The program has been tested on Planetbase 1.4.1 (Steam) and Planetbase 1.4.0 (GOG). No game crashes or failures were observed.
 3.  **Disclaimer:** The author is not responsible for any damage to game files or Planetbase save files resulting from the use of this program. The program does not use any Planetbase files other than the `.sav` save files. For safety, the program creates a backup (original) copy of your save file (save_name.sav.bak) when editing.
-
+---
 **(RU)Инструкция по применению:**
-
+---
 Скачайте архив.
 Распакуйте в удобное место. Установка не требуется.
 Запустите редактор и откройте нужное сохранение, отредактируйте, сохраните изменения.
 При первом запуске программы Windows может предложить скачать дополнительные библиотеки для C#. Размер около 60 мб.
 Загрузите изменённый файл сохранения в игре. Играйте)
-
+---
 **На что стоит обратить внимание:**
-
+---
 В архиве с программой есть Руководство. Большая часть вопросов там разъяснена.
 Работа программы проверялась на Planetbase 1.4.1 (Steam), Planetbase 1.4.0 (GOG). Сбоев и крашей игры не отмечено.
 Дисклеймер: Автор не несёт ответственности за повреждение файлов игры и файлов сохранения Planetbase при использовании данной программы. Программа при работе не затрагивает никаких файлов игры, кроме файлов сохранений. В целях безопасности, программа при редактировании файла сохраняет его резервную (исходную) копию (имя_сохранения.sav.bak).

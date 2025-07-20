@@ -1,15 +1,15 @@
 # PlanetBaseSaveEdit_1.0.1
 ---
 
-**(EN)This application** is a powerful tool that allows you to modify your save files (.sav) for the game Planetbase. With it, you can manage resources, change the parameters of colonists and bots, instantly upgrade buildings, control game events, and much more. The editor is designed to give you complete control over your colony and allow you to customize your gaming experience to your liking.
+**This application** is a powerful tool that allows you to modify your save files (.sav) for the game Planetbase. With it, you can manage resources, change the parameters of colonists and bots, instantly upgrade buildings, control game events, and much more. The editor is designed to give you complete control over your colony and allow you to customize your gaming experience to your liking.
 
 ---
 
-**(RU) Это приложение** является мощным инструментом, который позволяет вам изменять ваши файлы сохранения (.sav) для игры Planetbase. С его помощью вы можете управлять ресурсами, изменять параметры колонистов и ботов, мгновенно улучшать здания, контролировать игровые события и многое другое. Редактор предназначен для того, чтобы дать вам полный контроль над вашей колонией и позволить настроить игровой процесс по своему вкусу.
+**Это приложение** является мощным инструментом, который позволяет вам изменять ваши файлы сохранения (.sav) для игры Planetbase. С его помощью вы можете управлять ресурсами, изменять параметры колонистов и ботов, мгновенно улучшать здания, контролировать игровые события и многое другое. Редактор предназначен для того, чтобы дать вам полный контроль над вашей колонией и позволить настроить игровой процесс по своему вкусу.
 
 ---
 
-**(EN) Functions:**
+**Functions:**
 Instant Recovery: Fully restore health, satiety, morale and other indicators for all colonists and visitors.
 Treatment: Instantly cure the entire colony of diseases and injuries.
 Bot Management: Charge, repair or make all bots invulnerable with one click.
@@ -31,7 +31,7 @@ Automatic backups: Each time you save, the program creates several backups of yo
 
 ---
 
-**(RU) Функции:**
+**Функции:**
 Мгновенное восстановление: Полностью восстанавливайте здоровье, сытость, мораль и другие показатели для всех колонистов и посетителей.
 Лечение: Мгновенно излечивайте всю колонию от болезней и травм.
 Управление ботами: Заряжайте, ремонтируйте или делайте всех ботов неуязвимыми одним кликом.
@@ -53,7 +53,7 @@ Automatic backups: Each time you save, the program creates several backups of yo
 
 ---
 
-**(EN) Instructions for Use:**
+**Instructions for Use:**
 
 1.  Download the archive.
 2.  Unpack it to a convenient location. No installation is required.
@@ -66,17 +66,25 @@ Automatic backups: Each time you save, the program creates several backups of yo
 1.  The archive includes a User Manual. Most questions are explained there.
 2.  The program has been tested on Planetbase 1.4.1 (Steam) and Planetbase 1.4.0 (GOG). No game crashes or failures were observed.
 3.  **Disclaimer:** The author is not responsible for any damage to game files or Planetbase save files resulting from the use of this program. The program does not use any Planetbase files other than the `.sav` save files. For safety, the program creates a backup (original) copy of your save file (save_name.sav.bak) when editing.
+  
 ---
-**(RU)Инструкция по применению:**
+
+**Инструкция по применению:**
+
 ---
+
 Скачайте архив.
 Распакуйте в удобное место. Установка не требуется.
 Запустите редактор и откройте нужное сохранение, отредактируйте, сохраните изменения.
 При первом запуске программы Windows может предложить скачать дополнительные библиотеки для C#. Размер около 60 мб.
 Загрузите изменённый файл сохранения в игре. Играйте)
+
 ---
+
 **На что стоит обратить внимание:**
+
 ---
+
 В архиве с программой есть Руководство. Большая часть вопросов там разъяснена.
 Работа программы проверялась на Planetbase 1.4.1 (Steam), Planetbase 1.4.0 (GOG). Сбоев и крашей игры не отмечено.
 Дисклеймер: Автор не несёт ответственности за повреждение файлов игры и файлов сохранения Planetbase при использовании данной программы. Программа при работе не затрагивает никаких файлов игры, кроме файлов сохранений. В целях безопасности, программа при редактировании файла сохраняет его резервную (исходную) копию (имя_сохранения.sav.bak).

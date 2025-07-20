@@ -1,7 +1,8 @@
 # PlanetBaseSaveEdit_1.0.1
-(EN)This application is a powerful tool that allows you to modify your save files (.sav) for the game Planetbase. With it, you can manage resources, change the parameters of colonists and bots, instantly upgrade buildings, control game events, and much more. The editor is designed to give you complete control over your colony and allow you to customize your gaming experience to your liking.
-(RU) Это приложение является мощным инструментом, который позволяет вам изменять ваши файлы сохранения (.sav) для игры Planetbase. С его помощью вы можете управлять ресурсами, изменять параметры колонистов и ботов, мгновенно улучшать здания, контролировать игровые события и многое другое. Редактор предназначен для того, чтобы дать вам полный контроль над вашей колонией и позволить настроить игровой процесс по своему вкусу.
-(EN) Instant Recovery: Fully restore health, satiety, morale and other indicators for all colonists and visitors.
+**(EN)This application** is a powerful tool that allows you to modify your save files (.sav) for the game Planetbase. With it, you can manage resources, change the parameters of colonists and bots, instantly upgrade buildings, control game events, and much more. The editor is designed to give you complete control over your colony and allow you to customize your gaming experience to your liking.
+**(RU) Это приложение** является мощным инструментом, который позволяет вам изменять ваши файлы сохранения (.sav) для игры Planetbase. С его помощью вы можете управлять ресурсами, изменять параметры колонистов и ботов, мгновенно улучшать здания, контролировать игровые события и многое другое. Редактор предназначен для того, чтобы дать вам полный контроль над вашей колонией и позволить настроить игровой процесс по своему вкусу.
+**(EN) Functions:**
+Instant Recovery: Fully restore health, satiety, morale and other indicators for all colonists and visitors.
 Treatment: Instantly cure the entire colony of diseases and injuries.
 Bot Management: Charge, repair or make all bots invulnerable with one click.
 Colonist Editor: Change the names, specializations, and genders of existing colonists.
@@ -19,7 +20,8 @@ Disaster Deferral: Postpone sandstorms, snowstorms, solar flares, and pirate att
 Instant completion: Stop the cataclysms that are already underway.
 Protection from threats from the sky: "Divert" meteor showers and thunderstorms from your base, making them safe during the game day.
 Automatic backups: Each time you save, the program creates several backups of your file (.bak, .bak2, .bak3), as well as a primary untouched backup (.original_bak) for maximum security.
-(RU) Мгновенное восстановление: Полностью восстанавливайте здоровье, сытость, мораль и другие показатели для всех колонистов и посетителей.
+**(RU) Функции:**
+Мгновенное восстановление: Полностью восстанавливайте здоровье, сытость, мораль и другие показатели для всех колонистов и посетителей.
 Лечение: Мгновенно излечивайте всю колонию от болезней и травм.
 Управление ботами: Заряжайте, ремонтируйте или делайте всех ботов неуязвимыми одним кликом.
 Редактор колонистов: Изменяйте имена, специализации и пол существующих колонистов.

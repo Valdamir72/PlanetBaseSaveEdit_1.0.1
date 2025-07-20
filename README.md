@@ -60,9 +60,13 @@ Automatic backups: Each time you save, the program creates several backups of yo
 3.  Run the editor, open the desired save file, edit it, and save the changes.
 4.  On the first launch, Windows may prompt you to download additional libraries for C#. The download size is approximately 60 MB.
 5.  Load the modified save file in the game. Enjoy!
+  
 ---
+
 **Important Notes:**
+
 ---
+
 1.  The archive includes a User Manual. Most questions are explained there.
 2.  The program has been tested on Planetbase 1.4.1 (Steam) and Planetbase 1.4.0 (GOG). No game crashes or failures were observed.
 3.  **Disclaimer:** The author is not responsible for any damage to game files or Planetbase save files resulting from the use of this program. The program does not use any Planetbase files other than the `.sav` save files. For safety, the program creates a backup (original) copy of your save file (save_name.sav.bak) when editing.
@@ -87,4 +91,4 @@ Automatic backups: Each time you save, the program creates several backups of yo
 
 В архиве с программой есть Руководство. Большая часть вопросов там разъяснена.
 Работа программы проверялась на Planetbase 1.4.1 (Steam), Planetbase 1.4.0 (GOG). Сбоев и крашей игры не отмечено.
-Дисклеймер: Автор не несёт ответственности за повреждение файлов игры и файлов сохранения Planetbase при использовании данной программы. Программа при работе не затрагивает никаких файлов игры, кроме файлов сохранений. В целях безопасности, программа при редактировании файла сохраняет его резервную (исходную) копию (имя_сохранения.sav.bak).
+**Дисклеймер:** Автор не несёт ответственности за повреждение файлов игры и файлов сохранения Planetbase при использовании данной программы. Программа при работе не затрагивает никаких файлов игры, кроме файлов сохранений. В целях безопасности, программа при редактировании файла сохраняет его резервную (исходную) копию (имя_сохранения.sav.bak).
